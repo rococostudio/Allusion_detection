@@ -51,7 +51,7 @@
 
    
 
-      * ASI_corpus：典故溯源任务（Allusion Source Identification）的文本对数据集
+	* ASI_corpus：典故溯源任务（Allusion Source Identification）的文本对数据集
    
         | 文件名                | 描述               |
         | -------------------- | -------------------|
@@ -59,7 +59,7 @@
    
     
    
-      * PR_corpus：诗词可读性（Poetry Readability）的难易度数据集
+   	* PR_corpus：诗词可读性（Poetry Readability）的难易度数据集
    
          | 文件名             | 描述           |
          | ----------------- | -------------- |
